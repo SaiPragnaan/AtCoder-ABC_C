@@ -13,7 +13,7 @@ int main()
     }
     for (int i = 0; i < m; ++i)
     {
-        cin >> xa[i].second;
+        cin >>xa[i].second;
     }
     sort(xa.begin(), xa.end());
     long long sum = 0, sum_idx = 0;

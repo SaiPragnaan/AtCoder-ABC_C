@@ -41,7 +41,6 @@ int main()
     //         cout << -1 << endl;
     //     }
     // }
-
     for (int i = 0; i < m; i++)
     {
         int b;
